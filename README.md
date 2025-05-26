@@ -36,7 +36,7 @@ Statistical test summaries (t-test, ANOVA, chi-square)
 🏙️ Optimize zones near metro stations, tech parks, and residential hubs.
 🔍 Use demand patterns to improve long-term operations and fleet planning.
 
-📘 **View full analysis notebook:** [Click to open notebook](./Yulu_HT_Analysis.ipynb)
+📘 **View full analysis notebook:** [Click to open notebook](./Yulu_Demand_HT.ipynb)
 
 👤 Author
 Himanshu Jharaniya
